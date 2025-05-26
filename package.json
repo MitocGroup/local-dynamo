@@ -30,7 +30,7 @@
     "test": "./node_modules/.bin/nodeunit test"
   },
   "dependencies": {
-    "flags": "0.1.2"
+    "flags": "4.0.0"
   },
   "devDependencies": {
     "kew": "0.4.0",
